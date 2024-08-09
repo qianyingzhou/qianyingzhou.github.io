@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Qianying Zhou # the main title
 
-tagline: tagline # it will display as the sub-title
+tagline: LSE BSc Internaitonal Relations, Class of 2025 # it will display as the sub-title
 
 description:  # used by seo meta and the atom feed
   # A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -37,14 +37,14 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Qianying Zhou
-  email:  # change to your email address
+  email:  zhouqianying2003@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your twitter homepage
     - https://github.com/qianyingzhou # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-   # - # linkedinlink
+   # - https://www.linkedin.com/in/qianying-zhou-172a20256/ # linkedinlink
 
 # Site Verification Settings
 webmaster_verifications:
