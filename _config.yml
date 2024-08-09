@@ -14,21 +14,21 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Le Lyu # the main title
+title: Qianying Zhou # the main title
 
-tagline: Third year CS & AI student    @ University of Bath # it will display as the sub-title
+tagline: tagline # it will display as the sub-title
 
-description: A personal website by a third-year Computer Science and Artificial Intelligence student at the University of Bath, documenting learning experiences and technical blogs. # used by seo meta and the atom feed
+description:  # used by seo meta and the atom feed
   # A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://yuyulyu.github.io"
+url: "https://qianyingzhou.github.io"
 gems:
   - jekyll-sitemap
 
 github:
-  username: yuyulyu # change to your github username
+  username: qianyingzhou # change to your github username
 
 twitter:
   username:  # change to your twitter username
